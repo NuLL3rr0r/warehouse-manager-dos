@@ -3,17 +3,17 @@ Warehouse Manager (MS-DOS)
 
 A warehouse manager application written in FoxPro 2.6.
 
-![Alt text](/Screenshots/warehouse-manager-001.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-001.png?raw=true "Warehouse Manager (MS-DOS)")
 
-![Alt text](/Screenshots/warehouse-manager-002.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-002.png?raw=true "Warehouse Manager (MS-DOS)")
 
-![Alt text](/Screenshots/warehouse-manager-003.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-003.png?raw=true "Warehouse Manager (MS-DOS)")
 
-![Alt text](/Screenshots/warehouse-manager-004.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-004.png?raw=true "Warehouse Manager (MS-DOS)")
 
-![Alt text](/Screenshots/warehouse-manager-005.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-005.png?raw=true "Warehouse Manager (MS-DOS)")
 
-![Alt text](/Screenshots/warehouse-manager-006.png?raw=true "Warehouse Manager (MS-DOS)")
+![Warehouse Manager (MS-DOS)](/Screenshots/warehouse-manager-006.png?raw=true "Warehouse Manager (MS-DOS)")
 
 
 ## License
